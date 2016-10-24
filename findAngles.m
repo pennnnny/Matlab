@@ -1,3 +1,4 @@
+% contributed by Ankit 
 % Finds all the picture files (jpeg and png) in a folder and calculate the
 % angles the water drop makes with the surface. Can either a single value,
 % a vector of values (that is the same length as the number of pictures
